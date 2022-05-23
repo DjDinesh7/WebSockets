@@ -1,0 +1,7 @@
+I use visual studio code where we can save code with any name but extenstion should be ".js" (eg.- Script.js)
+
+use command "k6 run Script.js" in visual studio code terminal. 
+
+To open terminal click on terminal>new terminal or (Ctrl+Shift+`)
+
+if error occurs for running code copy package and package-lock and paste it in same directory where your script is store.
